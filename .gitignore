@@ -47,3 +47,7 @@ AGENTS.md
 settings.json
 .claude/
 NodeWarden-compat/
+
+# GitHub Actions workflows are maintained manually in this fork.
+# Do not sync upstream workflow files via automation.
+.github/workflows/
